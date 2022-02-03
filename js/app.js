@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/MultiplayerTest.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Justinayeung.github.io.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
